@@ -5,4 +5,6 @@ This is simply a rolling dice challenge between two players, who roll and got hi
 
 You can keep playing unlimited rounds by pressing the "Roll" button.
 
+Have fun!
+
 ![redDice](https://user-images.githubusercontent.com/56269124/189534073-2982bb13-d3ba-4225-8669-bd52dd207c1c.png)
